@@ -1,0 +1,9 @@
+Fever,Cough,Headache,Fatigue,Disease
+1,1,1,1,Flu
+1,1,0,0,Cold
+0,1,0,1,Covid-19
+1,0,1,1,Dengue
+0,0,1,1,Migraine
+1,1,0,1,Flu
+0,1,1,0,Cold
+1,0,0,1,Dengue
